@@ -1,0 +1,12 @@
+{
+  "name": "voci",
+  "version": "1.0.0",
+  "description": "The operating structure of a fictional online media that supports gender equality.",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/app.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  }
+}
