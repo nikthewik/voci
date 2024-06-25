@@ -69,7 +69,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 - [TypeScript Tutorial](https://www.typescripttutorial.net/) - A great website to learn TypeScript in detail;
 - [Codeium](https://codeium.com/) - An extension for VS Code that provides code autocompletion, search, and chat-based assistance directly within the Visual Studio Code IDE;
-
-```
-
-```
